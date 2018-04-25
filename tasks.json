@@ -1,0 +1,147 @@
+{
+	"Brijon": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "Alien soldiers fight in a frontier setting"
+	},
+	"Five Princesses: Rachael": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "The Princess of the Elements defends her realm from mad scientists"
+	},
+	"Five Princesses: Sarah": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "The Princess of Art discovers her powers"
+	},
+	"Jaq and Diane": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "Teen supers learn to work together"
+	},
+	"Arthurian novel": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "A Viking, an amnesiac knight, a bard, and burgler priest bad together to save the realm"
+	},
+	"The Darkblade": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "a young knight finds his powers and his purpose"
+	},
+	"S.N.E.A.K.S.": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "adventurers for hire discover a plot to overthrow the city"
+	},
+	"Orkbusters, Inc": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "A mercenary lets his conscience get the better of him"
+	},
+	"Hototogisu": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "In the 22nd century, some superheroes are made, and some don't even know it."
+	},
+	"Bloody Waters": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "Pirates on the high seas find themselves hunted by more than than kings and countries"
+	},
+	"The Fallen": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "A fallen angel, a heretic giant, and a dryad with wanderlust"
+	},
+	"Soujourner: {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "A princess wakes to find her body changed -- and she's given an assignment by the gods"
+	},
+	"zombies": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "An AWOL soldier and a young engineer stand against he zombie apocalypse"
+	},
+	"druid and wizard": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "A halfling druid with a strange future teams up with a tabaxi wizard"
+	},
+	"Magroth the Malevolent": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "An evil wizard acts as guardian to a local village in a series of short stories"
+	},
+	"The Walls of God": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "An invincible city surrenders, starting an unlikely hero on a quest to recapture it"
+	},
+	"Fun, Fun, Fun": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "In the future, a retired spy is pulled back in by a blind date"
+	},
+	"Dessa's Diary": {
+		"type": "prose",
+		"stage": "writing",
+		"blurb": "Being the memoir of a polyamorous, bisexual Mormon girl"
+	},
+	"Car Wars": {
+		"type": "app",
+		"stage": "writing",
+		"blurb": "MEAN stack application for creating a vehicle in Car Wars"
+	},
+	"Digital One-Sheets": {
+		"type": "blog",
+		"stage": "writing",
+		"blurb": "a collection of movie posters I like and movie posters for movies I like"
+	},
+	"Fan Fic Outlines": {
+		"type": "blog",
+		"stage": "writing",
+		"blurb": "Brief descriptions of fan fictions I won't ever write"
+	},
+	"Azmoth": {
+		"type": "prose",
+		"stage": "outline",
+		"blurb": "A fantasy world setting"
+	},
+	"Secret Passages": {
+		"type": "rpg",
+		"stage": "writing",
+		"blurb": "A Star Wars roleplaying campaign"
+	},
+	"Fan Fic Outlines": {
+		"type": "blog",
+		"stage": "writing",
+		"blurb": "Brief descriptions of fan fictions I won't ever write"
+	},
+	"Graphic Novel Recommendations": {
+		"type": "blog",
+		"stage": "writing",
+		"blurb": "Recommended reading for various graphic novels"
+	},
+	"Favorite Music Acts": {
+		"type": "blog",
+		"stage": "writing",
+		"blurb": "Brief descriptions of favorite bands, decade by decade"
+	},
+	"The Republican Party": {
+		"type": "blog",
+		"stage": "writing",
+		"blurb": "why i find the republican party repulsive"
+	},
+	"AWS": {
+		"type": "training",
+		"stage": "viewing",
+		"blurb": "preparation for AWS Associate Developer certification"
+	},
+	"Security": {
+		"type": "training",
+		"stage": "viewing",
+		"blurb": "preparation for various IT security related certifications"
+	}
+}
